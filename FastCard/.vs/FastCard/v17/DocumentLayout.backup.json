@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\viewmodels\\smtpsettingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\viewmodels\\smtpsettingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\contexts\\fastcarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\contexts\\fastcarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|c:\\users\\student\\desktop\\fastcart website\\fastcard\\fastcard\\migrations\\20260106093936_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BEDD6D-9E4D-44C8-8926-4D4C778C640E}|FastCard\\FastCard.csproj|solutionrelative:fastcard\\migrations\\20260106093936_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmtpSettingsVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\ViewModels\\SmtpSettingsVM.cs",
+              "RelativeDocumentMoniker": "FastCard\\ViewModels\\SmtpSettingsVM.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\ViewModels\\SmtpSettingsVM.cs",
+              "RelativeToolTip": "FastCard\\ViewModels\\SmtpSettingsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:18:42.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "FastCard\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "FastCard\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:17:38.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "FastCard\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Services\\EmailService.cs",
+              "RelativeToolTip": "FastCard\\Services\\EmailService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:03:23.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FastCard\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FastCard\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T05:03:40.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FastCard\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FastCard\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T09:24:26.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FastCard\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FastCard\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAFIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T09:24:00.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FastCard\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FastCard\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAIAwwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:22:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "FastCard\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "FastCard\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:17:15.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\appsettings.json",
+              "RelativeDocumentMoniker": "FastCard\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\appsettings.json",
+              "RelativeToolTip": "FastCard\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T08:55:28.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "FastCard\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "FastCard\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:17:02.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "FastCard\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Models\\AppUser.cs",
+              "RelativeToolTip": "FastCard\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:12:06.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Program.cs",
+              "RelativeDocumentMoniker": "FastCard\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Program.cs",
+              "RelativeToolTip": "FastCard\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:04:31.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FastCardDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Contexts\\FastCardDbContext.cs",
+              "RelativeDocumentMoniker": "FastCard\\Contexts\\FastCardDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Contexts\\FastCardDbContext.cs",
+              "RelativeToolTip": "FastCard\\Contexts\\FastCardDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:59:06.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FastCard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FastCard\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADQBAAAAAAAAAAAlwEYBAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T08:26:08.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260106093936_AddUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Migrations\\20260106093936_AddUserTable.cs",
+              "RelativeDocumentMoniker": "FastCard\\Migrations\\20260106093936_AddUserTable.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Migrations\\20260106093936_AddUserTable.cs",
+              "RelativeToolTip": "FastCard\\Migrations\\20260106093936_AddUserTable.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T09:39:36.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FastCard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\FastCart Website\\FastCard\\FastCard\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FastCard\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGcKAAAAAAAAAAAQwLAKAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T08:28:49.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
