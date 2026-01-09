@@ -32,7 +32,7 @@ namespace FastCard.Services
                 };
 
 
-                using var client = new SmtpClient();
+                /*using var client = new SmtpClient();
 
                 client.ServerCertificateValidationCallback = (s, c, h, e) => true;
 
@@ -41,7 +41,7 @@ namespace FastCard.Services
 
                 await client.AuthenticateAsync(_settings.Username, _settings.Password);
 
-                await client.SendAsync(message);
+                await client.SendAsync(message);*/
 
             }
             catch (Exception)

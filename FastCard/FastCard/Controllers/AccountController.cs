@@ -1,4 +1,5 @@
-﻿using FastCard.Models;
+﻿using FastCard.Interfaces;
+using FastCard.Models;
 using FastCard.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FastCard.Controllers
 {
-    public class AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager) : Controller
+    public class AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, IEmailService emailService) : Controller
     {
         public IActionResult Index()
         {
@@ -25,7 +26,7 @@ namespace FastCard.Controllers
             if (!ModelState.IsValid)
                 return View(vm);
 
-            var user = new AppUser 
+            var user = new AppUser
             {
                 FullName = vm.FullName,
                 UserName = vm.UserName,
@@ -34,13 +35,39 @@ namespace FastCard.Controllers
 
             var result = await userManager.CreateAsync(user, vm.Password);
 
-            if (result.Succeeded) 
+            if (!result.Succeeded)
             {
-                await signInManager.SignInAsync(user, isPersistent: false);
-                return RedirectToAction("Index", "Home");
+                foreach (var error in result.Errors)
+                    ModelState.AddModelError("", error.Description);
+
+                return View(vm);
             }
 
-            return View(vm);
+            return RedirectToAction("Index", "Home");
+
+            /*var token = await userManager.GenerateChangeEmailTokenAsync(user);
+
+            var link = Url.Action(
+                "ConfirmEmail",
+                "Account",
+                new { userId = user.Id, token = token },
+                Request.Scheme
+            );
+
+            var body = $@"
+                <h2>FastCard Email Verification</h2>
+                <p>Zəhmət olmasa email-i təsdiqlə:</p>
+                <a href='{link}'>Email-i təsdiqlə</a>
+            ";
+
+            await emailService.SendEmailAsync(user.Email, "Email Verification", body);
+
+            return RedirectToAction("EmailSent");*/
+        }
+
+        public IActionResult EmailSent()
+        {
+            return View();
         }
 
         [HttpGet]
@@ -80,5 +107,7 @@ namespace FastCard.Controllers
             await signInManager.SignOutAsync();
             return RedirectToAction("Login");
         }
+
+        
     }
 }

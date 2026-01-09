@@ -149,3 +149,9 @@ C:\Users\Student\Desktop\FastCart Website\FastCard\FastCard\bin\Debug\net8.0\run
 C:\Users\Student\Desktop\FastCart Website\FastCard\FastCard\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Student\Desktop\FastCart Website\FastCard\FastCard\obj\Debug\net8.0\FastCard.csproj.AssemblyReference.cache
 C:\Users\Student\Desktop\FastCart Website\FastCard\FastCard\obj\Debug\net8.0\FastCard.csproj.Up2Date
+C:\Users\Student\Desktop\FastCart Website\FastCard\FastCard\obj\Debug\net8.0\FastCard.sourcelink.json
+C:\Users\Student\Desktop\FastCart Website\FastCard\FastCard\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Student\Desktop\FastCart Website\FastCard\FastCard\bin\Debug\net8.0\MailKit.dll
+C:\Users\Student\Desktop\FastCart Website\FastCard\FastCard\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Student\Desktop\FastCart Website\FastCard\FastCard\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Student\Desktop\FastCart Website\FastCard\FastCard\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FastCard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be2f0ae59f793667bf4287e8fd3fa3f522b96d70")]
 [assembly: System.Reflection.AssemblyProductAttribute("FastCard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FastCard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
